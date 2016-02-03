@@ -1,0 +1,87 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "Gavialis" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Terrapene AND MNHN" ; Times: 1
+	Query: "Mehelya capensis" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Varanus exanthematicus institutioncode:MNHN" ; Times: 1
+	Query: "Pseudemys AND MNHN" ; Times: 1
+	Query: "Emys orbicularis AND MNHN" ; Times: 1
+	Query: "Trachemys AND MNHN" ; Times: 1
+	Query: "Varanus griseus institutioncode:MNHN" ; Times: 2
+	Query: "Kinixys AND MNHN" ; Times: 1
+	Query: "Homopus AND MNHN" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 823 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Chile ; Times: 3
+	Country: Spain ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "chamaeleo ellioti" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "amphiuma means" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+
+
+End of report.
