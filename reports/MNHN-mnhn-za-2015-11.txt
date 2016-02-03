@@ -1,0 +1,62 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dermochelys coriacea -india" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Testudines institutioncode:MNHN" ; Times: 2
+	Query: "dendroaspis" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Algyroides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 751 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+
+
+End of report.
