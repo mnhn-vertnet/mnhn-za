@@ -1,0 +1,87 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-12 ; Times: 7
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 7
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "Acontias" ; Times: 1
+	Query: "Cerastes institutioncode:MNHN" ; Times: 2
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "Bitis institutioncode:MNHN" ; Times: 3
+	Query: "Psammobates geometricus" ; Times: 1
+	Query: "eryx conicus" ; Times: 7
+	Query: "Causus institutioncode:MNHN" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1045 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Siren lacertina" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+
+
+End of report.
