@@ -1,0 +1,88 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Russia ; Times: 4
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "kinixys institutioncode:MNHN" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "kinixys mnhn" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "Cordylus institutioncode:MNHN" ; Times: 1
+	Query: "c. porosus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1312 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 8
+	Country: United States ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinixys institutioncode:MNHN" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "CHAETODONTIDAE" ; Times: 2
+
+
+End of report.
