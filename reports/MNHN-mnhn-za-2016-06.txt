@@ -1,0 +1,103 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 6
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Homopus areolatus" ; Times: 1
+	Query: "dendroaspis jamesoni" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "Testudo graeca 1" ; Times: 4
+	Query: "Geochelone radiata" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Calotes versicolor mnhn" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1052 download events in this period)
+Total number of records downloaded: 226
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "iguana" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "polypterus bichir" ; Times: 3
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
