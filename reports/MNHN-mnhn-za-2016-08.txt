@@ -1,0 +1,73 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Acontias" ; Times: 2
+	Query: "varanus flavescens" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 924 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "phrynosoma" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "varanus flavescens" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "bufo" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
