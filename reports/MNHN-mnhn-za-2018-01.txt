@@ -1,0 +1,62 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Boa imperator" ; Times: 2
+	Query: "Corallus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1398 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
