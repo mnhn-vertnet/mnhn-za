@@ -1,0 +1,68 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes notaeus" ; Times: 1
+	Query: "cerastes vipera" ; Times: 1
+	Query: "Tomodon dorsatus" ; Times: 2
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "MNHN 8672" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 2
+	Query: "varanus griseus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1892 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Echis carinatus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
