@@ -1,0 +1,55 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-11 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 3
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Bufonidae institutioncode:MNHN" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Galeus melastomus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "Naja naja" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+
+
+End of report.
