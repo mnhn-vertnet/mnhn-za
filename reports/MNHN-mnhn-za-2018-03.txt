@@ -1,0 +1,70 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-07 ; Times: 4
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:9ffdd244-3e59-40a8-b064-cfdd84d40231" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 2
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 1
+	Query: "Paleosuchus" ; Times: 1
+	Query: "varanus griseus" ; Times: 2
+	Query: "Lepidosiren paradoxa" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gekko gecko" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+
+
+End of report.
