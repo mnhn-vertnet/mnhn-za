@@ -1,0 +1,62 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macroscincus" ; Times: 1
+	Query: "Hydrablabes" ; Times: 3
+	Query: "Hydrablabes periops" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1359 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "salmo salar" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+
+
+End of report.
