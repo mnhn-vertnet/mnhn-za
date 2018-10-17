@@ -1,0 +1,74 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 4
+	Country: Austria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:MNHN" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 4
+	Query: "phrynosoma sp" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 846 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:MNHN" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "MONOPELTIS" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+
+
+End of report.
