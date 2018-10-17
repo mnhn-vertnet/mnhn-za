@@ -1,0 +1,78 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "Andrias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1169 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+
+
+End of report.
