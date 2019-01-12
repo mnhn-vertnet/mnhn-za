@@ -1,0 +1,66 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Belgium ; Times: 5
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "bothrops lanceolatus" ; Times: 3
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Heloderma institutioncode:MNHN" ; Times: 1
+	Query: "Ceratophrys institutioncode:MNHN" ; Times: 2
+	Query: "Bothrops lanceolatus" ; Times: 2
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "Gerrhonotus institutioncode:MNHN" ; Times: 1
+	Query: "Lepidosiren paradoxa" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 809 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+
+
+End of report.
