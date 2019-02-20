@@ -1,0 +1,69 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 9
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:MNHN" ; Times: 3
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "gbifdatasetid:9ffdd244-3e59-40a8-b064-cfdd84d40231" ; Times: 3
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "Ceratophrys institutioncode:MNHN" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 2
+	Query: "ceratophrys ornata" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "catalognumber:79 institutioncode:MNHN" ; Times: 1
+	Query: "pelochelys cantorii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 962 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+
+
+End of report.
