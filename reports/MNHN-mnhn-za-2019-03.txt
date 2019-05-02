@@ -1,0 +1,119 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 224
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 59
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-14 ; Times: 20
+	Date: 2019-03-15 ; Times: 39
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Boaedon fuliginosus" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "Mimophis mahfalensis" ; Times: 1
+	Query: "calotes mystaceus mnhn" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 4
+	Query: "Chrysopelea ornata" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Corallus annulatus" ; Times: 1
+	Query: "Calamaria albiventer" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Psammodynastes pulverulentus" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Calabaria reinhardtii" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Dasypeltis scabra" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Hydrablabes periops" ; Times: 6
+	Query: "Sanzinia madagascariensis" ; Times: 1
+	Query: "Pseudoxenodon inornatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Eryx conicus" ; Times: 1
+	Query: "Xenodon severus" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Ahaetulla mycterizans" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Philothamnus semivariegatus" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Eunectes notaeus" ; Times: 1
+	Query: "Psammophis crucifer" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "Boaedon lineatus" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "acontias plumbeus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1281 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "calotes mystaceus mnhn" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 1
+
+
+End of report.
