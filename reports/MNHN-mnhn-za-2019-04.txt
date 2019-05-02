@@ -1,0 +1,64 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-06 ; Times: 3
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavialis" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "crocodylus palustris" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "Hydrablabes" ; Times: 1
+	Query: "Sander lucioperca" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1263 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vipera aspis" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
