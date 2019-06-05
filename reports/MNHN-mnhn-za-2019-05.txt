@@ -1,0 +1,88 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 3
+	Country: United States ; Times: 1
+	Country: Croatia ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: New Zealand ; Times: 19
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-06 ; Times: 22
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pleurodeles nebulosus" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "vipera aspis" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 1
+	Query: "rudicollis" ; Times: 1
+	Query: "Raja clavata" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 1
+	Query: "Oxynotus paradoxus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Nebrius ferrugineus" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 3
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 940 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 2
+	Country: Switzerland ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "&#34;Echis carinatus&#34;" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+
+
+End of report.
