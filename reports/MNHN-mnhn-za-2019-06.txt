@@ -1,0 +1,86 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Tunisia ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 39
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-27 ; Times: 20
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-30 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Pleurodeles nebulosus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Raja clavata" ; Times: 2
+	Query: "Pelochelys cantorii" ; Times: 3
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Oxynotus paradoxus" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Pristis pristis" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Vipera ursini" ; Times: 3
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Sphyrna tudes" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 2
+	Query: "Galeus melastomus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1182 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 5
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes" ; Times: 1
+	Query: "Cylindrophis" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "Natrix maura" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "Anilius" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+
+
+End of report.
