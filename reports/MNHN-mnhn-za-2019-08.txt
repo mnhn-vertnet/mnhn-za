@@ -1,0 +1,86 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "Corallus annulatus" ; Times: 4
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Proteus anguinus" ; Times: 2
+	Query: "Caecilia tentaculata" ; Times: 1
+	Query: "daudini" ; Times: 1
+	Query: "paleosuchus" ; Times: 2
+	Query: "Leptodactylus latrans" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "caecilia tentaculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1034 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+
+
+End of report.
