@@ -1,0 +1,105 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 188
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 120
+	Country: Turkey ; Times: 2
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 35
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 32
+	Date: 2020-04-03 ; Times: 11
+	Date: 2020-04-08 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 5
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "gavialis gangeticus" ; Times: 3
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Lissotriton helveticus" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "Piaractus brachypomus" ; Times: 9
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Pleuronectes platessa" ; Times: 5
+	Query: "Sciaena umbra" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Rhinella crucifer" ; Times: 3
+	Query: "Carassius gibelio" ; Times: 7
+	Query: "Lissotriton vulgaris" ; Times: 5
+	Query: "python reticulatus" ; Times: 2
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Sander lucioperca" ; Times: 11
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Polypterus senegalus" ; Times: 4
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Paleosuchus trigonatus" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Silurus glanis" ; Times: 2
+	Query: "Lampetra planeri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1171 download events in this period)
+Total number of records downloaded: 111
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 5
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Melanosuchus niger" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+
+
+End of report.
