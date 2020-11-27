@@ -1,0 +1,71 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Slovakia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "alectis ciliaris bloch" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "spinipes" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 596 download events in this period)
+Total number of records downloaded: 85
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 11
+	Country: South Korea ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "Varanus varius" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+
+
+End of report.
