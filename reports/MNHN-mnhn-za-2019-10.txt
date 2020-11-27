@@ -1,0 +1,116 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 177
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 37
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 20
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-24 ; Times: 24
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "alpestris Ichthyosaura" ; Times: 2
+	Query: "Crocodylus acutus 2012" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Oxynotus paradoxus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Cordylus vittifer" ; Times: 4
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Sistrurus catenatus 2014" ; Times: 1
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "arborea Hyla" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1308 download events in this period)
+Total number of records downloaded: 164
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Varanus salvator" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
