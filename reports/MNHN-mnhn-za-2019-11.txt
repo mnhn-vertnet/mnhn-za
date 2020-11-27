@@ -1,0 +1,77 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 6
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "varanus flavescens" ; Times: 1
+	Query: "Oxynotus centrina vntype:specimen" ; Times: 1
+	Query: "Crocodylus acutus 2012" ; Times: 4
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "Crocodylus acutus 2015" ; Times: 4
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Salmo salar" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 4
+	Query: "Caecilia tentaculata" ; Times: 1
+	Query: "Sistrurus catenatus 2014" ; Times: 4
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1367 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiolepis belliana" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
