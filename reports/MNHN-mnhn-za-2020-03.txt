@@ -1,0 +1,63 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: Ukraine ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Slovakia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 853 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "amphibians (puebla)" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
