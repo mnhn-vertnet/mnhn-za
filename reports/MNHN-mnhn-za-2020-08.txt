@@ -1,0 +1,82 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 47
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+	Country: Honduras ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-04 ; Times: 8
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 3
+	Query: "Crocodylus acutus 2016" ; Times: 3
+	Query: "Tinca tinca" ; Times: 1
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Solea solea" ; Times: 2
+	Query: "Acontias plumbeus" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Pelophylax lessonae" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Batrachoides surinamensis" ; Times: 1
+	Query: "Crocodylus acutus 2012" ; Times: 5
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Galeus melastomus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 756 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
