@@ -1,0 +1,56 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 44
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 6
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "Salmo salar" ; Times: 9
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Anabas testudineus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 474 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+
+
+End of report.
