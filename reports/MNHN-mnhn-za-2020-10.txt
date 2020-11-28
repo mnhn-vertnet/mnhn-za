@@ -1,0 +1,93 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 7
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 12
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 1
+	Query: "scientificname:Tetrapturus belone" ; Times: 5
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "MNHN Naja melanoleuca" ; Times: 1
+	Query: "MNHN Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 3
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Alosa fallax" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Chrysoblephus laticeps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1521 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "&#34;Duttaphrynus melanostictus&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+
+
+End of report.
