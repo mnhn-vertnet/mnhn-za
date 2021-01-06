@@ -1,0 +1,186 @@
+Report for Institution Code MNHN, Resource mnhn-za
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 105
+	Country: United States ; Times: 1
+	Country: Denmark ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-30 ; Times: 31
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-01 ; Times: 26
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 27
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 12
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Phycis phycis" ; Times: 1
+	Query: "scientificname:Sciaena umbra" ; Times: 2
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Pleuronectes platessa" ; Times: 2
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "scientificname:Scophthalmus maximus" ; Times: 2
+	Query: "scientificname:Belone belone" ; Times: 1
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "scientificname:Scyliorhinus canicula" ; Times: 2
+	Query: "scientificname:Trachurus trachurus" ; Times: 2
+	Query: "scientificname:Peristedion cataphractum" ; Times: 1
+	Query: "Pelophylax lessonae" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "scientificname:Thunnus thynnus" ; Times: 1
+	Query: "scientificname:Polyprion americanus" ; Times: 1
+	Query: "scientificname:Cyclopterus lumpus" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Liza ramada" ; Times: 2
+	Query: "scientificname:Scophthalmus rhombus" ; Times: 2
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 2
+	Query: "scientificname:Tetrapturus belone" ; Times: 1
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "Amietophrynus mauritanicus" ; Times: 1
+	Query: "scientificname:Solea solea" ; Times: 2
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "scientificname:Platichthys flesus" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "scientificname:Labrus mixtus" ; Times: 3
+	Query: "scientificname:Mola mola" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 1
+	Query: "scientificname:Oxynotus centrina" ; Times: 1
+	Query: "scientificname:Lepidopus caudatus" ; Times: 2
+	Query: "scientificname:Thunnus alalunga" ; Times: 1
+	Query: "Caecilia tentaculata" ; Times: 1
+	Query: "scientificname:Phycis blennoides" ; Times: 2
+	Query: "scientificname:Platycephalus indicus" ; Times: 1
+	Query: "scientificname:Raja clavata" ; Times: 2
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "Rhinella crucifer" ; Times: 1
+	Query: "scientificname:Bathypterois dubius" ; Times: 1
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 2
+	Query: "scientificname:Lampetra fluviatilis" ; Times: 2
+	Query: "scientificname:Scyliorhinus stellaris" ; Times: 2
+	Query: "scientificname:Alosa fallax" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "scientificname:Coryphaena equiselis" ; Times: 1
+	Query: "scientificname:Myliobatis aquila" ; Times: 2
+	Query: "scientificname:Centroscymnus coelolepis" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "scientificname:Trachinus draco" ; Times: 1
+	Query: "scientificname:Scorpaena porcus" ; Times: 1
+	Query: "scientificname:Sparus aurata" ; Times: 2
+	Query: "scientificname:Diplodus puntazzo" ; Times: 2
+	Query: "scientificname:Cetorhinus maximus" ; Times: 1
+	Query: "scientificname:Heptranchias perlo" ; Times: 2
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "scientificname:Conger conger" ; Times: 2
+	Query: "scientificname:Sphyrna tudes" ; Times: 1
+	Query: "arapaima" ; Times: 3
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "scientificname:Galeus melastomus" ; Times: 2
+	Query: "scientificname:Ranzania laevis" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "scientificname:Hymenocephalus italicus" ; Times: 2
+	Query: "scientificname:Lepadogaster lepadogaster" ; Times: 2
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "scientificname:Acipenser sturio" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Limanda limanda" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 2
+	Query: "scientificname:Callionymus lyra" ; Times: 2
+	Query: "scientificname:Centrophorus granulosus" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 1
+	Query: "Tetrapturus belone" ; Times: 1
+	Query: "scientificname:Uranoscopus scaber" ; Times: 2
+	Query: "scientificname:Lampris guttatus" ; Times: 1
+	Query: "scientificname:Lophius piscatorius" ; Times: 2
+	Query: "scientificname:Brama brama" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 705 download events in this period)
+Total number of records downloaded: 240
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 25
+	Country: Spain ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 25
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Amphibolurus muricatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Egernia cunninghami" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Chalarodon madagascariensis" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
